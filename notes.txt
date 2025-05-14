@@ -1,0 +1,8 @@
+software, tools, languages used for bankinh app:
+node.js
+react
+plaid - banking api 
+appwrite - open source backend
+chart.js - creates charts
+tailwind css
+shadcn
