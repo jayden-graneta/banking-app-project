@@ -6,3 +6,10 @@ appwrite - open source backend
 chart.js - creates charts
 tailwind css
 shadcn
+next.js
+
+
+# add cd my-app to run terminal to my-app 
+
+notes:
+when working with file group routing (auth) or (root) are used for pathing
