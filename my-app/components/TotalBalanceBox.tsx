@@ -10,6 +10,11 @@ const TotalBalancebox = ({accounts = [], totalBanks, totalCurrentBalance}: Totla
             <h2 className='header-2'>
                 Bank Accounts: {totalBanks} 
             </h2>
+            <div className='flex felx-col gap-2'>
+              <p className='total-balance-label'>
+                Total Current Balance
+              </p>
+            </div>
         </div>
     </section>
   )
