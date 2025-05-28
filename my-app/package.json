@@ -1,6 +1,6 @@
 {
-  "name": "my-app",
-  "version": "0.1.0",
+  "name": "jsm_banking",
+  "version": "4.1.7",
   "private": true,
   "scripts": {
     "dev": "next dev",
